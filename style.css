@@ -1,0 +1,10 @@
+body{
+   background-color: rgb(83, 31, 31);
+}
+.mein .heading-1{
+   color: aliceblue;
+   text-transform: capitalize;
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: 40px;
+}
